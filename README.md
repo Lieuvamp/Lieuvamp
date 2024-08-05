@@ -1,8 +1,8 @@
 ### Olá! Bem vindo ao meu perfil 😵
 
-- ✨ Interessado em front-end, UI/UX.
-- 💻 Atualmente sem emprego, comecei na área da tecnologia há pouco tempo!.
-- 🧩 Estutando sobre HTML | CSS | Javascript | C.
+- ✨ Interessado em front-end.
+- 💻 Atualmente procurando um estágio.
+- 🧩 Estutando sobre HTML | CSS | Javascript | UI/UX.
 
 <div align="center">
   <a href="https://github.com/Lieuvamp">
